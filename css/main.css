@@ -157,11 +157,10 @@ nav a:hover {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-@import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
 
 body {
     width: 100%;
-    font-family: 'cwTeXHei';
+    font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", "微软雅黑" sans-serif;
     text-align: center;
     color: #403F37;
 }
@@ -216,6 +215,7 @@ body {
 
 footer {
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
