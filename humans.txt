@@ -1,15 +1,19 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    UI developer: Cloud Chen
+    Twitter: @twCloudChen
+    From:Taipei, Taiwan
+
+    Web designer: Haru Yang
+    From:Taipei, Taiwan
 
 # THANKS
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# SITE
 
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    Last update:Aug 29, 2014
+    Language: Chinese
+    Doctype:HTML5
+    Technology Colophon: CSS3, Normalize.css, jQuery, Modernizr
